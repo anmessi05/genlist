@@ -1,0 +1,6 @@
+{
+  "name": "Spotify Vibe Playlist Miner",
+  "description": "Algorithmic playlist recommendation engine and data mining dashboard with Cosine Similarity, k-NN audio vector matching, PCA 2D clustering, and Spotify OAuth integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
